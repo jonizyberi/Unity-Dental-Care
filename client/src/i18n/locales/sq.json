@@ -1,0 +1,210 @@
+{
+  "navbar": {
+    "home": "Ballina",
+    "services": "Shërbimet",
+    "lab": "Laboratori",
+    "tourism": "Turizmi",
+    "booking": "Rezervimi"
+  },
+
+  "home": {
+    "title": "Unity Dental Care",
+    "subtitle": "Klinikë Dentare Luksoze & Laborator 3D"
+  },
+
+  "booking": {
+    "title": "Rezervo Konsultën",
+    "name": "Emri",
+    "email": "Email",
+    "phone": "Telefoni",
+    "message": "Mesazh",
+    "date": "Zgjidh Datën",
+    "submit": "Rezervo",
+    "sending": "Duke dërguar...",
+    "required": "Plotëso të gjitha fushat e detyrueshme"
+  },
+
+  "clinic": {
+    "title": "Trajtime Dentare & Shërbime",
+    "services": [
+      {
+        "title": "Implantologji Dentare",
+        "items": [
+          "Implante individuale",
+          "All-on-4 / All-on-6",
+          "Full mouth rehabilitation",
+          "Sinus lift",
+          "Bone graft"
+        ]
+      },
+      {
+        "title": "Estetikë Dentare",
+        "items": [
+          "Faseta porcelani",
+          "Zircon / E-max crowns",
+          "Hollywood Smile",
+          "Zbardhim profesional",
+          "Bonding estetik"
+        ]
+      },
+      {
+        "title": "Ortodonci",
+        "items": [
+          "Aparat fiks metalik",
+          "Aparat estetik",
+          "Invisalign / aligners"
+        ]
+      },
+      {
+        "title": "Kirurgji Orale",
+        "items": [
+          "Heqje dhëmbësh të komplikuar",
+          "Dhëmbë të pjekurisë",
+          "Kirurgji gingivale"
+        ]
+      },
+      {
+        "title": "Endodonci",
+        "items": [
+          "Trajtim kanalesh me mikroskop"
+        ]
+      },
+      {
+        "title": "Stomatologji e përgjithshme",
+        "items": [
+          "Mbushje",
+          "Pastrim profesional",
+          "Kontroll periodik",
+          "Radiografi panoramike"
+        ]
+      },
+      {
+        "title": "Dental Tourism",
+        "items": [
+          "Konsultë online",
+          "Organizim udhëtimi",
+          "Akomodim",
+          "Përkthim dhe asistencë",
+          "Follow-up pas trajtimit"
+        ]
+      }
+    ]
+  },
+
+  "lab": {
+    "title": "Laborator Dentare 3D",
+    "services": [
+      {
+        "title": "CAD/CAM Design",
+        "items": [
+          "Dizajn dixhital buzëqeshjeje",
+          "Modelim 3D",
+          "Protezë me precizion"
+        ]
+      },
+      {
+        "title": "Printim 3D",
+        "items": [
+          "Kurora & ura",
+          "Udhëzues kirurgjikë",
+          "Restaurime provizore"
+        ]
+      },
+      {
+        "title": "Punë me Telescope",
+        "items": [
+          "Detaje me precizion të lartë",
+          "Rregullime të imëta",
+          "Përfundim me saktësi maksimale"
+        ]
+      },
+      {
+        "title": "Zircon & E-max",
+        "items": [
+          "Kurora Zircon",
+          "Faseta E-max",
+          "Estetikë natyrale"
+        ]
+      },
+      {
+        "title": "Milling me Shpejtësi të Lartë",
+        "items": [
+          "Sisteme CNC",
+          "Prodhim i shpejtë",
+          "Precizion i lartë"
+        ]
+      },
+      {
+        "title": "Kontroll Cilësie",
+        "items": [
+          "Testim i saktësisë së përshtatjes",
+          "Inspektim final",
+          "Kontroll qëndrueshmërie"
+        ]
+      }
+    ]
+  },
+
+  "tourism": {
+    "title": "Turizëm Dentar në Shqipëri",
+    "services": [
+      {
+        "title": "Konsultë Online",
+        "items": [
+          "Analizë radiografie",
+          "Plan trajtimi",
+          "Preventivë paraprake"
+        ]
+      },
+      {
+        "title": "Organizim Udhëtimi",
+        "items": [
+          "Ndihmë me biletat",
+          "Transfer aeroport–hotel–klinikë",
+          "Asistencë logjistike"
+        ]
+      },
+      {
+        "title": "Akomodim",
+        "items": [
+          "Partneritete me hotele",
+          "Paketa gjithëpërfshirëse"
+        ]
+      },
+      {
+        "title": "Asistencë Gjuhësore",
+        "items": [
+          "Italisht",
+          "Anglisht",
+          "Gjermanisht",
+          "Frëngjisht"
+        ]
+      },
+      {
+        "title": "Koordinim i Trajtimit",
+        "items": [
+          "Trajtime intensive",
+          "Planifikim fleksibël"
+        ]
+      },
+      {
+        "title": "Garanci & Follow-up",
+        "items": [
+          "Garanci shumëvjeçare",
+          "Kontroll online",
+          "Komunikim WhatsApp/email",
+          "Dokumentacion dixhital"
+        ]
+      }
+    ]
+  },
+
+  "footer": {
+    "about": "Klinikë Dentare Luksoze & Laborator 3D në Shqipëri.",
+    "contact": "Kontakt",
+    "newsletter": "Buletin",
+    "location": "Vendndodhja",
+    "subscribe": "Abonohu",
+    "rights": "Të gjitha të drejtat e rezervuara."
+  }
+}

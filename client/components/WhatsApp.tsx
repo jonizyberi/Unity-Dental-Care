@@ -1,0 +1,31 @@
+import { FaWhatsapp }
+from "react-icons/fa";
+
+export default function WhatsApp(){
+
+  return(
+
+    <a
+      href="https://wa.me/355699189831"
+      target="_blank"
+      className="
+      fixed
+      bottom-6
+      right-6
+      bg-green-500
+      p-4
+      rounded-full
+      shadow-xl
+      "
+    >
+
+      <FaWhatsapp
+        size={35}
+        color="white"
+      />
+
+    </a>
+
+  )
+
+}

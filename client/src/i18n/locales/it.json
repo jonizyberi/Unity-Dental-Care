@@ -1,0 +1,210 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Servizi",
+    "lab": "Laboratorio",
+    "tourism": "Turismo",
+    "booking": "Prenotazione"
+  },
+
+  "home": {
+    "title": "Unity Dental Care",
+    "subtitle": "Clinica Dentale di Lusso & Laboratorio 3D"
+  },
+
+  "booking": {
+    "title": "Prenota la Tua Consulenza",
+    "name": "Nome",
+    "email": "Email",
+    "phone": "Telefono",
+    "message": "Messaggio",
+    "date": "Seleziona Data",
+    "submit": "Prenota",
+    "sending": "Invio...",
+    "required": "Compila tutti i campi obbligatori"
+  },
+
+  "clinic": {
+    "title": "Trattamenti Dentali & Servizi",
+    "services": [
+      {
+        "title": "Implantologia Dentale",
+        "items": [
+          "Impianti singoli",
+          "All-on-4 / All-on-6",
+          "Riabilitazione completa",
+          "Sinus lift",
+          "Innesto osseo"
+        ]
+      },
+      {
+        "title": "Estetica Dentale",
+        "items": [
+          "Faccette in porcellana",
+          "Corone Zircon / E-max",
+          "Hollywood Smile",
+          "Sbiancamento professionale",
+          "Bonding estetico"
+        ]
+      },
+      {
+        "title": "Ortodonzia",
+        "items": [
+          "Apparecchio metallico",
+          "Apparecchio estetico",
+          "Invisalign / aligners"
+        ]
+      },
+      {
+        "title": "Chirurgia Orale",
+        "items": [
+          "Estrazioni complesse",
+          "Denti del giudizio",
+          "Chirurgia gengivale"
+        ]
+      },
+      {
+        "title": "Endodonzia",
+        "items": [
+          "Trattamento canalare con microscopio"
+        ]
+      },
+      {
+        "title": "Odontoiatria Generale",
+        "items": [
+          "Otturazioni",
+          "Pulizia professionale",
+          "Controlli periodici",
+          "Radiografia panoramica"
+        ]
+      },
+      {
+        "title": "Dental Tourism",
+        "items": [
+          "Consulto online",
+          "Organizzazione viaggio",
+          "Alloggio",
+          "Traduzione e assistenza",
+          "Follow-up post trattamento"
+        ]
+      }
+    ]
+  },
+
+  "lab": {
+    "title": "Laboratorio Dentale 3D",
+    "services": [
+      {
+        "title": "Design CAD/CAM",
+        "items": [
+          "Progettazione digitale del sorriso",
+          "Modellazione 3D",
+          "Protesi di precisione"
+        ]
+      },
+      {
+        "title": "Stampa 3D",
+        "items": [
+          "Corone & ponti",
+          "Guide chirurgiche",
+          "Restauri temporanei"
+        ]
+      },
+      {
+        "title": "Lavoro al Telescope",
+        "items": [
+          "Dettagli ultra precisi",
+          "Regolazioni fini",
+          "Finitura ad alta precisione"
+        ]
+      },
+      {
+        "title": "Zircon & E-max",
+        "items": [
+          "Corone in Zircon",
+          "Faccette E-max",
+          "Estetica naturale"
+        ]
+      },
+      {
+        "title": "Fresatura ad Alta Velocità",
+        "items": [
+          "Sistemi CNC",
+          "Produzione rapida",
+          "Alta precisione"
+        ]
+      },
+      {
+        "title": "Controllo Qualità",
+        "items": [
+          "Verifica dell’adattamento",
+          "Ispezione finale",
+          "Test di durata"
+        ]
+      }
+    ]
+  },
+
+  "tourism": {
+    "title": "Turismo Dentale in Albania",
+    "services": [
+      {
+        "title": "Consultazione Online",
+        "items": [
+          "Analisi radiografie",
+          "Piano di trattamento",
+          "Preventivo preliminare"
+        ]
+      },
+      {
+        "title": "Organizzazione Viaggio",
+        "items": [
+          "Assistenza voli",
+          "Transfer aeroporto–hotel–clinica",
+          "Supporto logistico"
+        ]
+      },
+      {
+        "title": "Alloggio",
+        "items": [
+          "Partnership con hotel",
+          "Pacchetti all-inclusive"
+        ]
+      },
+      {
+        "title": "Assistenza Linguistica",
+        "items": [
+          "Italiano",
+          "Inglese",
+          "Tedesco",
+          "Francese"
+        ]
+      },
+      {
+        "title": "Coordinamento del Trattamento",
+        "items": [
+          "Programmi intensivi",
+          "Pianificazione flessibile"
+        ]
+      },
+      {
+        "title": "Garanzia & Follow-up",
+        "items": [
+          "Garanzia pluriennale",
+          "Controlli online",
+          "Comunicazione via WhatsApp/email",
+          "Documentazione digitale"
+        ]
+      }
+    ]
+  },
+
+  "footer": {
+    "about": "Clinica Dentale di Lusso & Laboratorio 3D in Albania.",
+    "contact": "Contatto",
+    "newsletter": "Newsletter",
+    "location": "Posizione",
+    "subscribe": "Iscriviti",
+    "rights": "Tutti i diritti riservati."
+  }
+}
