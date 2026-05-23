@@ -11,6 +11,7 @@
     "reset": "rimraf node_modules .next package-lock.json && npm install"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "axios": "^1.6.8",
     "framer-motion": "^11.0.0",
     "gsap": "^3.12.5",
